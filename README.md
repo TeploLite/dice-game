@@ -1,6 +1,6 @@
 # Aplikasi game dadu simpel 
 ## LIVE DEMO
-### https://teplolite.github.io/kalkulator/
+### https://teplolite.github.io/dice-game/
 ### This is coded by Naufal
 ### Please star this repo and follow me here on Github so that other can find this repository.
 
